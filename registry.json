@@ -2,22 +2,12 @@
   "version": 1,
   "plugins": [
     {
-      "id": "hello-world",
-      "name": "Hello World",
-      "version": "1.0.0",
-      "author": "Noctalia Team",
-      "description": "A simple Hello World plugin demonstrating functionalities.",
-      "repository": "https://github.com/noctalia-dev/noctalia-plugins",
-      "minNoctaliaVersion": "3.6.0",
-      "license": "MIT"
-    },
-    {
-      "id": "launcher-button",
-      "name": "Launcher Button",
-      "version": "1.0.0",
-      "author": "Noctalia Team",
-      "description": "A simple button that opens the app launcher.",
-      "repository": "https://github.com/noctalia-dev/noctalia-plugins",
+      "id": "video-wallpapers",
+      "name": "Video Wallpapers",
+      "version": "0.1",
+      "author": "RealRaupy",
+      "description": "Adds Video Wallpapers and Wallpaper Engine intigration!",
+      "repository": "https://github.com/RealRaupy/noctalia-plugins",
       "minNoctaliaVersion": "3.6.0",
       "license": "MIT"
     }
