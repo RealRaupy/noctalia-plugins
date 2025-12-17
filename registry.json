@@ -2,11 +2,11 @@
   "version": 1,
   "plugins": [
     {
-      "id": "video-wallpapers",
-      "name": "Video Wallpapers",
+      "id": "hellow world",
+      "name": "test",
       "version": "0.1",
-      "author": "RealRaupy",
-      "description": "Adds Video Wallpapers and Wallpaper Engine intigration!",
+      "author": "Not mIne",
+      "description": "does nothing",
       "repository": "https://github.com/RealRaupy/noctalia-plugins",
       "minNoctaliaVersion": "3.6.0",
       "license": "MIT"
